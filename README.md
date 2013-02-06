@@ -1,7 +1,7 @@
 portfolio
 =========
 
-Here shall upload some examples of my programming experience
+Some examples of my programming experience
 
 **sfaplot.C**
 
@@ -16,6 +16,10 @@ I recently worked on a command-line memory training program, but I'm not sure if
 Here is a copy of my thesis, which demonstrates the kind of analysis that I was doing and the the attention to detail that I put towards the presentation of the results.
 
 The analysis techniques were performed on random radioactive count data and might be of use for analysing website hits.
+
+**om2exif.sh**
+
+An example of the bash script I wrote to copy meta data from one format to another so my photo tagging method would be be compatible on both Mac OS and Windows. For more info see my blog: http://theadventuresofsuperdoc.blogspot.co.uk/2012/04/how-do-you-find-your-favourite-photos_9728.html
 
 **blog**
 
